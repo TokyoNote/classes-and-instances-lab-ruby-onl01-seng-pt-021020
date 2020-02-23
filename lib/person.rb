@@ -2,6 +2,6 @@ class Person
   
 end
 
-tom cruise = Person.new
+terry cruise = Person.new
 
 katy perry = Person.new
