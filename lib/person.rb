@@ -2,6 +2,6 @@ class Person
   
 end
 
-terry cruise = Person.new
+terry = Person.new
 
-katy perry = Person.new
+katy = Person.new
